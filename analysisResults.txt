@@ -1,0 +1,11 @@
+Analysis 1: Authors Highest Priced Book
+
+Educart ICSE Semester 1 MCQ Sample Papers Book by the author Educart is the most expensive book, with price of 880 INR. Chapterwise MCQs Bundle For ICSE Class 10 Semester, ranks the second, published by Oswal - Gurukul costing 830 INR.
+
+Analysis 2: Top Rated Books with more than 1000 Users Rated
+
+The Magic of the Lost Temple authored by Sudha Murty has the maximum ratings, although the number of users rated are quite less. J. K. Rowling's Harry Potter and the Philosopher's Stone, follows it with a very high number of users rating it as well as high ratings.
+
+Analysis 3: Book Ratings vs Users Rated
+
+The Silent Patient authored by Alex Michaelides has a rating of 4.5 but is still top ranked due to a large number of customers - 77499 rating it. Paulo Coelho's The Alchemist comes second with a rating of 4.6 with 65417 customers rating it.
